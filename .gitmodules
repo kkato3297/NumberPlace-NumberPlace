@@ -1,0 +1,3 @@
+[submodule "mod_numberplace"]
+	path = mod_numberplace
+	url = git@github.com:kkato3297/NumberPlace-mod_numberplace.git
